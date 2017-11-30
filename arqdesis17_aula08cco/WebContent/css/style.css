@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+/*
+ * style.css
+ */
+body {
+	padding-top: 50px;
+}
+
+label.mid {
+	margin-top: 10px;
+}
