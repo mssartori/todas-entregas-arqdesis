@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chamados</string>
+    <string name="login_main">Usuário</string>
+    <string name="senha_main">Senha</string>
+    <string name="logar_main">Logar</string>
+    <string name="busca_chamado">Buscar</string>
+</resources>
